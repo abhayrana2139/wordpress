@@ -1,0 +1,26 @@
+﻿----------- CHANGELOG 2.9.6 -----------
+Traveler version 2.9.6 – August 14, 2021
+
+[Update] UX Tour Program of Tour Single Layout7
+[Update] Add Razorpay for Membership Package checkout.
+[Update] Add Vanuatu currency VUV 
+[Fix] UI Booking Bar alignment in Solo layout.
+[Fix] Ajax Price for Rental
+[Fix] GPB to GBP
+[Fix] Notice in Car Rental Single Page
+[Fix] Duplicate Discount in Tour 
+[Fix] Wrong Time With TravelPayout Search From PST Timezone
+[Fix] Start time vacancies do not update with Woocommerce booking.
+[Fix] Tour price discount by Amount in Solo layout. 
+[Fix] Unavailable date in Rental Booking
+[Fix] Calculate Tour Package in Checkout
+[Fix] Multi-language in search Room
+[Fix] Mega menu item does not show submenu on mobile.
+[Fix] Sub-menu lv3 on mobile can not open. 
+[Fix] Cannot checkout success on Member Package
+[Fix] ST List of Multi Service loading when a guest browser
+[Fix] Classic - Code shows up when hovering on the location field of Car Transfer.
+[Fix] Classic - Car Transfer location field can not click.
+[Fix] Classic - Calendar in Search Form
+[Fix] Classic - Flight Search Result Page
+[Fix] Classic - Partner can not finish Flight Create action. 
